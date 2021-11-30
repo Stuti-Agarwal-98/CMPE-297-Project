@@ -13,4 +13,4 @@ In this project, We are trying to assess the health of plant leaves. Our labelle
 
 
 ## References:
-[Googgle-simclrv2] (https://github.com/google-research/simclr)
+[Googgle-simclrv2](https://github.com/google-research/simclr)
