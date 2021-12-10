@@ -10,7 +10,7 @@
 In this project, We are trying to assess the health of plant leaves. Our labelled dataset is quite small. So, we have used Contrastive Learning technique using Simclrv2 for plant disease classification. For better performance of our model,Initially the ResNet 50 Model is trained using Plant village dataset.The pretrained model is finetuned and distilled using Plant Disease Dataset i.e. classify the health of plant leaf. Each image of the Plant Disease dataset belongs to one of the category- healthy, rust,scab and multi disease. We have also implemented tfx pipeline for our finetune model.
 ![alt text](https://github.com/Stuti-Agarwal-98/CMPE-297-Project/blob/main/1_USmgYTlUc6D8XBh6kNXm4g.png)
 
-Note: You need to login with your SJSU ID 
+#### Note: You need to login with your SJSU ID 
 
 ## Dataset Used: [Plant Disease Dataset](https://drive.google.com/drive/folders/1Rdhd0ngPeNVQM3ktU1Rp6k905MNgQN4_)
 
@@ -18,7 +18,9 @@ Note: You need to login with your SJSU ID
 
 ### [Simclr Additional Colabs](https://drive.google.com/drive/folders/18SfHAf6BsU9DpM1CO3PLynV7VpbGySy6)
 
+
 ### [TfRecords](https://drive.google.com/drive/folders/14b4HyZx5fpGpz-pw1lccB3Y6zPnb7-iw)
+
 
 ### [Preprocessed Plant Disease dataset](https://drive.google.com/drive/folders/18FUERqhhHqZg2U-XnOV2iwDrn-JB-FIY)
 
