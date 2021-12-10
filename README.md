@@ -34,6 +34,8 @@ In this project, We are trying to assess the health of plant leaves. Our labelle
 ### After clicking on the SUBMIT button We get the classified label of the disease
 ### ![image](https://user-images.githubusercontent.com/71077352/145336333-1343f83a-8e44-47e2-bb4c-16dee1eb5b73.png)
 
+### Video Recording Link
+https://drive.google.com/file/d/1Rh_aFdFwJaE7-qwSLdSiWfHXFMaS7hEP/view?usp=sharing
 
 
 ## References:
